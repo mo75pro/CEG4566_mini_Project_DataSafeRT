@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<item key="replaceBarOpen" value="false"/>
+	<list key="searchhistory">
+		<item value="PLL"/>
+		<item value="BSP_LCD_LayerDefaultInit"/>
+		<item value="LCD_FRAME_BUFFER"/>
+		<item value="ILI9341_LCD_PIXEL_WIDTH"/>
+		<item value="ILI9341_LCD_PIXEL_WIDTH;"/>
+		<item value="GetLcdPixelWidth"/>
+		<item value="FRAME"/>
+	</list>
+</section>
